@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactpro1/static/css/main.1bf090fa.css",
+    "main.js": "/reactpro1/static/js/main.9cab8a79.js",
+    "static/media/project1-home11.jpg": "/reactpro1/static/media/project1-home11.c6755445a902d47edb48.jpg",
+    "static/media/project1-home5.jpg": "/reactpro1/static/media/project1-home5.13a3a3195c8433db7fcb.jpg",
+    "index.html": "/reactpro1/index.html",
+    "main.1bf090fa.css.map": "/reactpro1/static/css/main.1bf090fa.css.map",
+    "main.9cab8a79.js.map": "/reactpro1/static/js/main.9cab8a79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bf090fa.css",
+    "static/js/main.9cab8a79.js"
+  ]
+}
